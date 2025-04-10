@@ -10,12 +10,12 @@
       "backgroundImage": true
     },
     "color": {
-      "custom": false,
-      "customDuotone": false,
-      "customGradient": false,
-      "defaultDuotone": false,
-      "defaultGradients": false,
-      "defaultPalette": false,
+      "custom": true,
+      "customDuotone": true,
+      "customGradient": true,
+      "defaultDuotone": true,
+      "defaultGradients": true,
+      "defaultPalette": true,
       "duotone": []
     },
     "custom": {
@@ -30,8 +30,8 @@
       "units": ["px", "%", "em", "rem", "vw", "vh"]
     },
     "typography": {
-      "defaultFontSizes": false,
-      "customFontSize": false
+      "defaultFontSizes": true,
+      "customFontSize": true
     }
   }
 }
